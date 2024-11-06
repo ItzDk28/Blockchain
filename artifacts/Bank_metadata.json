@@ -98,11 +98,11 @@
 	},
 	"sources": {
 		"bank.sol": {
-			"keccak256": "0x42abd1d2b57dcf41fdb9b88bf28c137ce0688720794352791ead18206cc4a4f1",
+			"keccak256": "0x2dd653dc90895d79a77d761ee126317694b1e92c4d5d626355d70494745c9c30",
 			"license": "Bhide License",
 			"urls": [
-				"bzz-raw://2873d734b53be9215de6bc734f92d759827de9af67c0b5df82167e57b3b6f186",
-				"dweb:/ipfs/QmaGPrXVmowPEkHswciLSanhDGxq5quhCcJXbyGgPhF1eC"
+				"bzz-raw://b56aa45bebbf7775b72ef4d4d6a168f069261eab15ef22548d1c3b6bdbc1a83e",
+				"dweb:/ipfs/Qmb41kRrpSHUTxSnYVzy857u2MJcEmQcuEB6XbFLcD6adA"
 			]
 		}
 	},

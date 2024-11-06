@@ -11,6 +11,7 @@ contract Bank {
 
     // payable is necessary because the function accepts a value (amount) as a parameter (EXTERNAL SOURCE AHE MHANUN)
     function deposit(uint256 amount) public payable {
+        require(amount >=0, "Amount must be greater than 0");
         balances[msg.sender] += amount;
     }
 
